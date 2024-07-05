@@ -1,0 +1,11 @@
+[Added Associations]
+text/x-csrc=org.xfce.mousepad.desktop;
+
+[Default Applications]
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+x-scheme-handler/postman=Postman.desktop
+x-scheme-handler/eclipse+command=_usr_lib_dbeaver_.desktop
